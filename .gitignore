@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# LabVIEW Crap
+*.aliases
+*.lvlps
+
 # =========================
 # Operating System Files
 # =========================

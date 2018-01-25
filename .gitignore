@@ -18,6 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # LabVIEW Crap
+.aliases
+.lvlps
 *.aliases
 *.lvlps
 

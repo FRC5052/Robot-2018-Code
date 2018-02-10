@@ -57,9 +57,11 @@ Temporary Items
 2018 Robot Project.lvlps
 2018 Robot Project.aliases
 *.aliases
-<<<<<<< HEAD
 *.vi
+<<<<<<< HEAD
 =======
 *.aliases
 >>>>>>> a3d12dbcb8d0098445260b45a608fe70a5c0ad8b
 *.aliases
+=======
+>>>>>>> parent of 914287b... Do not Use
